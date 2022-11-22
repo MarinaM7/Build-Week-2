@@ -1,0 +1,183 @@
+/*------------------ANISH HOMEPAGE-----------------*/
+*{
+    margin: 0;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+.col-md-4:hover {
+    transform: scale(1.1);
+}
+
+.sectionCard{
+    height: 500px;
+}
+/* NAVBAR */
+.navbar{
+    width: 100%;
+}
+.navbar-brand{
+    width: 20%;
+}
+.navbar-toggler{
+    border-color:rgb(255, 193, 5);
+}
+
+.navbar-toggler-icon{
+    font-size: 20px;
+    background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNjQiIGhlaWdodD0iNjQiCnZpZXdCb3g9IjAsMCwyNTYsMjU2IgpzdHlsZT0iZmlsbDojMDAwMDAwOyI+CjxnIGZpbGw9IiNmZmMxMDciIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1kYXNoYXJyYXk9IiIgc3Ryb2tlLWRhc2hvZmZzZXQ9IjAiIGZvbnQtZmFtaWx5PSJub25lIiBmb250LXdlaWdodD0ibm9uZSIgZm9udC1zaXplPSJub25lIiB0ZXh0LWFuY2hvcj0ibm9uZSIgc3R5bGU9Im1peC1ibGVuZC1tb2RlOiBub3JtYWwiPjxnIHRyYW5zZm9ybT0ic2NhbGUoMy41NTU1NiwzLjU1NTU2KSI+PHBhdGggZD0iTTU2LDQ4YzIuMjA5LDAgNCwxLjc5MSA0LDRjMCwyLjIwOSAtMS43OTEsNCAtNCw0Yy0xLjIwMiwwIC0zOC43OTgsMCAtNDAsMGMtMi4yMDksMCAtNCwtMS43OTEgLTQsLTRjMCwtMi4yMDkgMS43OTEsLTQgNCwtNGMxLjIwMiwwIDM4Ljc5OCwwIDQwLDB6TTU2LDMyYzIuMjA5LDAgNCwxLjc5MSA0LDRjMCwyLjIwOSAtMS43OTEsNCAtNCw0Yy0xLjIwMiwwIC0zOC43OTgsMCAtNDAsMGMtMi4yMDksMCAtNCwtMS43OTEgLTQsLTRjMCwtMi4yMDkgMS43OTEsLTQgNCwtNGMxLjIwMiwwIDM4Ljc5OCwwIDQwLDB6TTU2LDE2YzIuMjA5LDAgNCwxLjc5MSA0LDRjMCwyLjIwOSAtMS43OTEsNCAtNCw0Yy0xLjIwMiwwIC0zOC43OTgsMCAtNDAsMGMtMi4yMDksMCAtNCwtMS43OTEgLTQsLTRjMCwtMi4yMDkgMS43OTEsLTQgNCwtNGMxLjIwMiwwIDM4Ljc5OCwwIDQwLDB6Ij48L3BhdGg+PC9nPjwvZz4KPC9zdmc+') 50% 50% no-repeat;
+    background-size: 100%;
+}
+.btn-close{
+    background: url('data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHg9IjBweCIgeT0iMHB4Igp3aWR0aD0iNDgiIGhlaWdodD0iNDgiCnZpZXdCb3g9IjAsMCwyNTYsMjU2IgpzdHlsZT0iZmlsbDojMDAwMDAwOyI+CjxnIGZpbGw9IiNmZmMxMDciIGZpbGwtcnVsZT0ibm9uemVybyIgc3Ryb2tlPSJub25lIiBzdHJva2Utd2lkdGg9IjEiIHN0cm9rZS1saW5lY2FwPSJidXR0IiBzdHJva2UtbGluZWpvaW49Im1pdGVyIiBzdHJva2UtbWl0ZXJsaW1pdD0iMTAiIHN0cm9rZS1kYXNoYXJyYXk9IiIgc3Ryb2tlLWRhc2hvZmZzZXQ9IjAiIGZvbnQtZmFtaWx5PSJub25lIiBmb250LXdlaWdodD0ibm9uZSIgZm9udC1zaXplPSJub25lIiB0ZXh0LWFuY2hvcj0ibm9uZSIgc3R5bGU9Im1peC1ibGVuZC1tb2RlOiBub3JtYWwiPjxnIHRyYW5zZm9ybT0ic2NhbGUoNS4zMzMzMyw1LjMzMzMzKSI+PHBhdGggdHJhbnNmb3JtPSJ0cmFuc2xhdGUoMjQuMDAwNTksLTkuOTQxMTMpIHJvdGF0ZSg0NS4wMDEpIiBkPSJNMjEuNSw0LjVoNS4wMDF2MzloLTUuMDAxeiI+PC9wYXRoPjxwYXRoIHRyYW5zZm9ybT0idHJhbnNsYXRlKDU3Ljk0MTEzLDI0LjAwNDc0KSByb3RhdGUoMTM1LjAwOCkiIGQ9Ik0yMS41LDQuNWg1djM5LjAwMWgtNXoiPjwvcGF0aD48L2c+PC9nPgo8L3N2Zz4=') 50% 50% no-repeat;
+background-size: 100%; 
+}
+.loginLink{
+    display:inline !important;
+    margin-top: 20px;
+}
+.search{
+    height: 35px;
+}
+/* ICONE */
+.fa-brands{
+    color: rgb(255, 193, 7);
+    font-size: larger;
+}
+.fa-solid{
+    color: rgb(255, 193, 7);
+}
+.footer{
+    display: block;
+    bottom: 0 !important;
+}
+
+
+/* MEDIA QUERY NAVBAR TOGGLER ICON */
+
+@media screen and (max-width: 851px) and (min-width: 730px){
+    .navbar-toggler{
+        position:absolute;
+        margin-left: 90vw !important;
+    }
+}
+@media screen and (max-width: 729px) and (min-width: 600px){
+    .navbar-toggler{
+        position:absolute;
+        margin-left: 87vw !important;
+    }
+}
+@media screen and (max-width: 599px) and (min-width: 431px){
+    .navbar-toggler{
+        position:absolute;
+        margin-left: 83vw !important;
+    }
+}
+@media screen and (max-width: 430px) and (min-width: 375px){
+    .navbar-toggler{
+        position:absolute;
+        margin-left: 80vw !important;
+    }
+}
+@media screen and (min-width: 300px) and (max-width:374px){
+    .navbar-toggler{
+        position:absolute;
+        margin-left: 75vw !important;
+    }
+}
+@media screen and (max-width: 300px){
+    .navbar-toggler{
+        position:absolute;
+        margin-left: 75vw !important;
+    }
+}
+
+/*------------------------------------------*/
+/*-----------MARINA CSS PRODOTTI E DETTAGLI---------------*/
+.col-4:hover{
+    transform: scale(1.1);
+}
+
+/*MOTO e DETTAGLIO*/
+
+.card-img-top {
+    width: 15em;
+    height: auto;
+}
+
+.hoverCards {
+    border: 2px solid #212529;
+}
+
+.hoverCards:hover {
+    border: 2px solid #eaeaea;
+    cursor: pointer;
+}
+
+#piccolo {
+    width: 20em;
+}
+
+.minibox {
+    background-color: #eaeaea;
+}
+
+.imgProdotto {
+    width: fit-content;
+    height: auto;
+}
+.products{
+    margin-top: 100px;
+    padding: 5%;
+}
+
+footer {
+    margin-top: 5em;
+}
+
+.strada{
+    margin-top: 2em;
+}
+
+#testoCentrale{
+  letter-spacing: .10em; /* Adjust as needed */
+}
+
+/* The typing effect */
+@keyframes typing {
+  from { width: 0 }
+  to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+  from, to { border-color: transparent }
+  50% { border-color: orange }
+}
+
+#carrelloTitolo{
+    margin-top: 4em;
+    margin-bottom: 1em;
+}
+/*--------JOUSSOUFA REGISTRATI--------*/
+#register{
+    background-color: #212529;
+    color: rgb(255, 193, 7);
+}
+#register:hover{
+    color: #212529;
+    background-color: rgb(255, 193, 7);
+}
+a .ms-3{
+    text-decoration: none;
+    color: #212529;
+}
+#login{
+    background-color: #212529;
+    color: rgb(255, 193, 7);
+}
+#login:hover{
+    color: #212529;
+    background-color: rgb(255, 193, 7);
+}

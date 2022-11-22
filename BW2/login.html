@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html lang="it">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>sito</title>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <link href='https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css' rel='stylesheet'
+        integrity='sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi' crossorigin='anonymous'>
+    <script src='https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js'
+        integrity='sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3'
+        crossorigin='anonymous'></script>
+    <link rel="stylesheet" href="assets/css/style.css">
+    <script src="https://kit.fontawesome.com/e941c06b04.js" crossorigin="anonymous"></script>
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-dark fixed-top">
+        <div class="container-fluid">
+            <a class="navbar-brand" href="index.html">
+                <img src="assets/img/logo2.jpg" class="w-75 h-75">
+            </a>
+            <button class="navbar-toggler ms-auto" type="button" data-bs-toggle="offcanvas"
+                data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar"> <span
+                    class="navbar-toggler-icon"></span> </button>
+            <div class="offcanvas offcanvas-end bg-dark" tabindex="-1" id="offcanvasNavbar"
+                aria-labelledby="offcanvasNavbarLabel">
+                <div class="offcanvas-header text-warning">
+                    <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+                </div>
+                <div class="offcanvas-body">
+
+                    <ul class="navbar-nav justify-content-end flex-grow-1 pe-3 mt-3">
+
+                        <li class="nav-item h5"> <a class="nav-link active text-warning" aria-current="page"
+                                href="auto.html">Auto</a>
+                        </li>
+                        <li class="nav-item h5"> <a class="nav-link text-warning" aria-current="page"
+                                href="moto.html">Moto</a>
+                        </li>
+                        <li class="nav-item h5"> <a class="nav-link text-warning" aria-current="page"
+                                href="bici.html">Bici</a>
+                        </li>
+                        <li class="nav-item h5 cart"> <a class="nav-link active icon" aria-current="page"
+                                href="carrello.html"><i class="fa-sharp fa-solid fa-cart-shopping"></i><span
+                                    class="text-warning">0</span></a>
+                        </li>
+                    </ul>
+                    <div class="d-flex ms-2 loginLink mt-4">
+                        <a class="ms-3 text-warning contactUs" href="#">Contattaci<i class="fas fa-headset"></i></a>
+                        <a class="ms-3 text-warning" href="registrati.html">Registrati</a>
+                        <a class="ms-3 text-white" href="login.html">Accedi</a>
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <div id="cont" class="container-fluid text-center mt-5 pt-5">
+
+
+
+        <h2>Login</h2>
+        <form action="" class="">
+
+            <div class="col-sm-3 mx-auto">
+                <div class="form-item">
+                    <input type="email" name="email" id="email" placeholder="User" class="my-2 rounded p-1 bg-dark text-warning">
+                </div>
+                <div class="form-item">
+                    <!-- add a password format display -->
+                    <input type="password" name="password" id="password" placeholder="Enter password"
+                        class="my-2 rounded p-1 bg-dark text-warning">
+                    <p id="error" style="color:red;"></p>
+                </div>
+            </div>
+                <div class="form-btns my-2 col-sm-3 mx-auto">
+                    <button type="button" class="btn btn-outline-dark" id="login">Accedi</button>
+                    <!-- <button class="signup" type="submit" disabled>Sign Up</button> -->
+                   
+                </div>
+                <div class="options">
+                    Non hai un'account? <a href="registrati.html">Registrati qui</a>
+                </div>
+        </form>
+        <p>Copyright &copy; GRUPPO5</p>
+
+
+        <!-- <div class="input-field button">
+                 <input type="submit" value="Submit Now" /> -->
+        <!-- <button type="button" id="login">Login</button>
+              </div>  -->
+        </form>
+    </div>
+    <!-- Footer -->
+    <footer class="bg-dark text-center text-warning">
+        <!-- Grid container -->
+        <div class="container-fluid p-4">
+            <!-- Section: Social media -->
+            <section class="mb-4">
+                <!-- Facebook -->
+                <a class="mx-2 m-1" href="https://www.facebook.com/" target="_blank" role="button">
+                    <i class="fa-brands fa-facebook"></i>
+                </a>
+
+                <!-- Twitter -->
+                <a class=" mx-2 m-1" href="https://twitter.com/" target="_blank" role="button">
+                    <i class="fa-brands fa-twitter"></i>
+                </a>
+
+                <!-- Google -->
+                <a class="mx-2 m-1 mx-2" href="https://www.google.com/" target="_blank" role="button">
+                    <i class="fa-brands fa-google"></i>
+                </a>
+
+                <!-- Instagram -->
+                <a class="mx-2 m-1" href="https://www.instagram.com/" target="_blank" role="button"><i
+                        class="fa-brands fa-instagram"></i>
+                </a>
+
+                <!-- Linkedin -->
+                <a class="mx-2 m-1" href="https://it.linkedin.com/" target="_blank" role="button">
+                    <i class="fa-brands fa-linkedin-in"></i>
+                </a>
+            </section>
+            <!-- Section: Social media -->
+
+
+
+            <!-- Section: Text -->
+            <section class="mb-4">
+                <p>
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Sunt distinctio earum
+                    repellat quaerat voluptatibus placeat nam, commodi optio pariatur est quia magnam
+                    eum harum corrupti dicta, aliquam sequi voluptate quas.
+                </p>
+            </section>
+            <!-- Section: Text -->
+
+            <!-- Section: Links -->
+            <section class="">
+                <!--Grid row-->
+                <div class="row">
+                    <!--Grid column-->
+                    <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase">Il Negozio</h5>
+
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <a href="#!" class="text-white">Le sedi</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Promozioni Auto</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Promozioni Moto</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Promozioni Bici</a>
+                            </li>
+                        </ul>
+                    </div>
+
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase">I Servizi</h5>
+
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <a href="#!" class="text-white">Pneumatici</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Cerchi a ruote</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Ganci a traino</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Paga a rate</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase">I Prodotti</h5>
+
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <a href="#!" class="text-white">I marchi</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Copriauto</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Braccioli auto</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Tappeti auto</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--Grid column-->
+
+                    <!--Grid column-->
+                    <div class="col-lg-3 col-md-6 mb-4 mb-md-0">
+                        <h5 class="text-uppercase">Servizio Clienti</h5>
+
+                        <ul class="list-unstyled mb-0">
+                            <li>
+                                <a href="#!" class="text-white">Contattaci</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Chi Siamo</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">FAQ</a>
+                            </li>
+                            <li>
+                                <a href="#!" class="text-white">Privacy</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <!--Grid column-->
+                </div>
+                <!--Grid row-->
+            </section>
+            <!-- Section: Links -->
+        </div>
+        <!-- Grid container -->
+
+        <!-- Copyright -->
+        <div class="text-center p-3" style="background-color: rgba(0, 0, 0, 0.2);">
+            © 2022 Copyright:
+            <a class="text-white" href="https://mdbootstrap.com/">GRUPPO5</a>
+        </div>
+        <!-- Copyright -->
+    </footer>
+    <!-- Footer -->
+    <script src="assets/js/login.js"></script>
+</body>
+
+</html>

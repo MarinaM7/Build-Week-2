@@ -1,0 +1,400 @@
+{
+  "auto": [
+    {
+      "nome": "Spazzole tergicristallo",
+      "nomeIntero": "Spazzola anteriore Classica Twin - BOSCH",
+      "prezzo": "23.66",
+      "descrizione": "Kit spazzole tergicristallo Bosch Twin, prodotto ad alta qualità per la migliore visibilità e sicurezza.",
+      "imgUno": "assets/img/automobile/spazzole_twin_comp_900x900.jpeg",
+      "imgDue": "assets/img/automobile/bosch_twin_comp_900x900.jpeg",
+      "id": 1,
+      "inCart": 0
+    },
+    {
+      "nome": "Spazzole tergicristallo",
+      "nomeIntero": "Spazzola tergicristallo - Gommino ricambio - DRAIN",
+      "prezzo": "2.99",
+      "descrizione": "Gommini di ricambio per tergicristallo, per tutte le spazzole con attacco standard da 6,5mm. Trattamento con grafite, gomma a lunga durata con laminatura, pronti per l'inserimento. Approvato CE",
+      "imgUno": "assets/img/automobile/comp_refill_900x900.jpeg",
+      "imgDue": "assets/img/automobile/gomma_900x900.jpeg",
+      "id": 2,
+      "inCart": 0
+    },
+    {
+      "nome": "Accessori retrocamera",
+      "nomeIntero": "Accessori Retrocamera BC30 - GARMIN - GARMIN",
+      "prezzo": "149.95",
+      "descrizione": "Telecamera posteriore wireless. Mostra tutto ciò che sta dietro il tuo veicolo mentre fai retromarcia. Visualizza le immagini in streaming direttamente sullo schermo del tuo navigatore GPS (vedi nostro codice 1295324). Semplice passaggio tra le modalità videocamera e navigazione. Trasmette video in modalità wireless fino a 10 metri. Robusta per resistente a qualsiasi condizione meteo. Sensore della videocamera tipo CMOS 1/3.7. Risoluzione: 640 x 480. Angolo della videocamera: 115 gradi (verticale) 140 gradi (orizzontale). Classificazione di impermeabilità: IPX7. Installazione professionale consigliata.",
+      "imgUno": "assets/img/automobile/1291515_2_900x900.jpeg",
+      "imgDue": "assets/img/automobile/1291515_1_900x900.jpeg",
+      "id": 3,
+      "inCart": 0
+    },
+    {
+      "nome": "Dischi freno ",
+      "nomeIntero": "Dischi freno sportivi G88 - TAR-OX Alfa Romeo 147, 156 - TAR-OX",
+      "prezzo": "232",
+      "descrizione": "Disco freno con ventilazione a turbina esterna. I 40 solchi sulla superficie frenante consentono l'eliminazione delle scorie delle pastiglie ed i gas di fading che si generano dopo ogni frenata, facilitando la dissipazione del calore, principale causa di deformazioni, vibrazioni, criccature e rotture. Trattato termicamente e sottoposto a rettifica di precisione è il classico disco Tarox in cui si uniscono qualità e prestazioni assolute. Certificato ABE dal KBA Tedesco per molte delle applicazioni a catalogo.",
+      "imgUno": "assets/img/automobile/tarox_g88_900x900.jpeg",
+      "imgDue": "assets/img/automobile/tarox_g88_montato_5_900x900.jpeg",
+      "id": 4,
+      "inCart": 0
+    },
+    {
+      "nome": "Dischi freno ",
+      "nomeIntero": "Dischi freno sportivi Sport Japan - TAR-OX Citroen BX, Berlingo, Xantia, Xsara, Xsara Picasso, Peugeot 206, Partner - TAR-OX",
+      "prezzo": "225",
+      "descrizione": "Frenata sempre pronta e resistenza alle alte temperature grazie alla serie di fori alternata da una serie di solchi sulla superficie frenante che aiutano la dissipazione del calore e l'eliminazione delle scorie e dei gas di fading. Trattato termicamente e sottoposto a rettifica di precisione, il disco Sport Japan è un perfetto connubio tra estetica, qualità e prestazioni. Certificato ABE per la maggior parte delle applicazioni a catalogo.",
+      "imgUno": "assets/img/automobile/tarox_sport_japan_900x900.jpeg",
+      "imgDue": "assets/img/automobile/tarox_sport_j_mont_1_900x900.jpeg",
+      "id": 5,
+      "inCart": 0
+    },
+    {
+      "nome": "Pulitore ",
+      "nomeIntero": "Pulitore iniettori diesel Additivo Diesel - AREXONS - AREXONS",
+      "prezzo": "6.39",
+      "descrizione": "Motori Diesel e Turbo Diesel. Contribuisce a un risparmio medio di carburante del 2,5%. Contrasta le corrosioni e le muffe causate dalla percentuale di biodiesel presente per Legge nel gasolio. Ripristina l'efficienza del sistema di alimentazione. Pulisce e disincrosta rapidamente gli iniettori dopo un solo trattamento. Ottimizza la combustione. Migliora le prestazioni. Facilita le partenze a freddo. Riduce la rumorosità e i fumi di scarico.",
+      "imgUno": "assets/img/automobile/1080312_900x900.jpeg",
+      "imgDue": "assets/img/automobile/1080312_900x900.jpeg",
+      "id": 6,
+      "inCart": 0
+    },
+    {
+      "nome": "Lampadine",
+      "nomeIntero": "Lampadine Altri Attacchi Original HB5 - BALLACK - BALLACK",
+      "prezzo": "5.95",
+      "descrizione": "Lampadina con caratteristiche simili alle lampadine di primo equipaggiamento. La migliore soluzione qualità/prezzo per sostituire la lampadina originale di serie. Omologazione E13 - ECE R37.",
+      "imgUno": "assets/img/automobile/1178258_900x900.jpeg",
+      "imgDue": "assets/img/automobile/1178258_lamp_900x900.jpeg",
+      "id": 7,
+      "inCart": 0
+    },
+    {
+      "nome": "Lampadine",
+      "nomeIntero": "Lampadine Altri Attacchi HB1 - Spare bulb 6000k - D-GEAR - D-GEAR",
+      "prezzo": "19.95",
+      "descrizione": "Lampada singola di ricambio per kit HID Canbus Xenon Kit 2-0.",
+      "imgUno": "assets/img/automobile/hid_ricambio_d-gear_900x900.jpeg",
+      "imgDue": "assets/img/automobile/7145q+0hjBL._AC_SL1125_900x900.jpeg",
+      "id": 8,
+      "inCart": 0
+    },
+    {
+      "nome": "Lampadine",
+      "nomeIntero": "Lampadine Altri Attacchi Cree Led Fog and Day Light - D-GEAR - D-GEAR",
+      "prezzo": "39.95",
+      "descrizione": "Lampadine a led per fendinebbia e Day Light. Cree Led. Garantiscono un potente ed intenso fascio luminoso grazie alla speciale lente che funge da proiettore. Basso consumo energetico e limitato calore. A lunga durata: particolarmente resistenti a colpi e vibrazioni. Si installa in pochi secondi! Non c'è bisogno di alcuna modifica. Risolve nel 99% dei casi l'avviso di errore nelle centraline delle auto di nuova generazione. In alcuni veicoli che hanno il computer di bordo (OBC), potrebbe essere necessario aggiungere una coppia di resistenze di carico al fine di evitare il messaggio di errore visualizzato sul cruscotto.",
+      "imgUno": "assets/img/automobile/1522484_comp_900x900.jpeg",
+      "imgDue": "assets/img/automobile/1522484_h8_900x900.jpeg",
+      "id": 9,
+      "inCart": 0
+    },
+    {
+      "nome": "Olio motore",
+      "nomeIntero": "Olio motore EDGE 5W30 C3 - CASTROL - CASTROL",
+      "prezzo": "48.60",
+      "descrizione": "Castrol EDGE 5W-30 C3 con Fluid Titanium è la scelta naturale per chi esige massime prestazioni dal motore deiveicoli moderni, che richiedono un livello di protezione elevata e oli dalle prestazioni superiori. Si trasforma per essere più resistente quando la pressione è elevata, proteggendo il motore. Riduce l'attrito a qualsiasi regime e in ogni condizione di utilizzo del motore. Testato in laboratori indipendenti secondo gli standard più elevati per dimostrarne le prestazioni. Consigliato dalle case automobilistiche leader a livello mondiale. Protegge il motore durante l'intero intervallo di cambio, anche con pressioni estreme. Performance del prodotto: ACEA C3API; SN/CF; GMdexos2; MB-Approval 229.31/ 229.51; Renault RN 0700 / RN 0710; VW 505 00/ 505 01.",
+      "imgUno": "assets/img/automobile/1485526_900x900.jpeg",
+      "imgDue": "assets/img/automobile/1485526_900x900.jpeg",
+      "id": 10,
+      "inCart": 0
+    },
+    {
+      "nome": "Olio motore",
+      "nomeIntero": "Olio motore GTX Magnatec - CASTROL - CASTROL",
+      "prezzo": "35.16",
+      "descrizione": "Olio motore parzialmente sintetico. Scegli Castrol Magnatec 10W-40 A3/B4 e le sue molecole intelligenti proteggeranno il motore della tua auto durante la fase critica di riscaldamento, momento in cui avviene per il 75% l'usura del motore. Impiega la tecnologia semisintetica. Aderisce al motore formando uno strato aggiuntivo che protegge durante la fase di riscaldamento e anche oltre. Si unisce alle superfici metalliche, rendendo le parti del motore più resistenti all'usura. Offre protezione con tutti gli stili di guida e in ogni condizione. Approvato in conformità alle specifiche di Mercedes Benz e Volkswagen sia per motori a benzina che per motori diesel. Approvazioni e specifiche: ACEA A3/B3, A3/B4; API SN, Conforme a Fiat 9.55535-D2, MB-Approval 226.5, Renault RN 0700/RN 0710, VW 501 01/505 00.",
+      "imgUno": "assets/img/automobile/1112249_magnatec10w40_900x900.jpeg",
+      "imgDue": "assets/img/automobile/1112249_magnatec10w40_900x900.jpeg",
+      "id": 11,
+      "inCart": 0
+    },
+    {
+      "nome": "Olio motore",
+      "nomeIntero": "Olio motore XT 10W40 - BARDAHL - BARDAHL",
+      "prezzo": "39.95",
+      "descrizione": "Lubrificante per motori a benzina, aspirati o sovralimentati e per motori diesel e turbodiesel a iniezione diretta. L'esclusiva formula anti-attrito Bardahl Polar Plus crea una barriera di protezione permanente formata da una pellicola molecolare lubrificante estremamente resistente e in grado di ridurre drasticamente gli attriti su tutte le parti del motore. Bardahl assicura prestazioni nettamente superiori rispetto ai lubrificanti convenzionali. Superiore controllo dell'usura. Maggiore longevità e pulizia per tutti gli organi del motore. Facile avviamento e immediata lubrificazione a bassa temperatura. Performance Level: SAE 10W40 / ACEA A3-B4 / API SN-CF MB 229.3 / VW 502.00-505.00 / RENAULT RN 0700-0710 / PSA B71 2300.",
+      "imgUno": "assets/img/automobile/1740422_900x900.jpeg",
+      "imgDue": "assets/img/automobile/1740422_900x900.jpeg",
+      "id": 12,
+      "inCart": 0
+    }
+  ],
+  "moto": [
+    {
+      "nome": "Casco",
+      "nomeIntero": "Casco Integrale FF353 Rapid - LS2 HELMETS",
+      "prezzo": "69.95",
+      "descrizione": "Calotta in termoplastica HPTT (High Pressure Thermoplastic Technology). Interni removibili e lavabili in tessuto traspirante e ipoallergenico. Imbottitura interna in polistirene espanso (EPS). Visiera con trattamento antigraffio e antiappannante. Cinturino a sgancio rapido. Spoiler posteriore e prese d'aria per creare un costante e leggero flusso di aerazione. Omologato ECE 22.05.",
+      "imgUno": "assets/img/moto/casco_ff353_rapid_opaco_ner_ros_900x900.jpeg",
+      "imgDue": "assets/img/moto/casco_ff353_rapid_opaco_ner_ros_1_900x900.jpeg",
+      "id": 13,
+      "inCart": 0
+    },
+    {
+      "nome": "Casco",
+      "nomeIntero": "Casco Integrale FF800 Storm Faster - LS2 HELMETS - LS2 HELMETS",
+      "prezzo": "149.95",
+      "descrizione": "Casco integrale in KPA (miscela patentata di policarbonato termoplastico dell'era spaziale ed altri materiali specificamente formulati per LS2) Visiera in policarbonato di Classe A con trattamento antigraffio. Sistema integrato di doppia visiera. Interni in tessuto ipoallergenico. Sistema di ritenzione micrometrica. Cinturino rinforzato nella mentonera. Adesivi catarinfrangenti di sicurezza. ECE 22.05.",
+      "imgUno": "assets/img/moto/casco_ff800_faster_900x900.jpeg",
+      "imgDue": "assets/img/moto/casco_ff800_faster_4_900x900.jpeg",
+      "id": 14,
+      "inCart": 0
+    },
+    {
+      "nome": "Casco",
+      "nomeIntero": "Casco Integrale K5S Vulcanum - AGV",
+      "prezzo": "299.95",
+      "descrizione": "Calotta leggerissima, costruita con un mix di carbonio e fibra di vetro. Nuova costruzione degli interni, progettati con tessuti ad alte prestazioni e senza cuciture nelle aree sensibili. 2Dry: assorbimento istantaneo del sudore. Interni rimovibili e lavabili. Paranaso rimovibile. Spoiler incorporato. Sistema di ventilazione integrato (IVS) dotato di prese d'aria all'interno della calotta. 5 prese d'aria anteriori. Sistema di ritenzione doppia D. Visiera parasole antigraffio integrata, rimovibile senza l'uso di attrezzi. Visiera esterna 100% Max Vision Pinlock incluso. Campo visivo orizzontale di 190°. Meccanismo della visiera multi-posizione.",
+      "imgUno": "assets/img/moto/casco-k5s_vulcanum_900x900.jpeg",
+      "imgDue": "assets/img/moto/casco-k5s_vulcanum_5_900x900.jpeg",
+      "id": 15,
+      "inCart": 0
+    },
+    {
+      "nome": "Candela",
+      "nomeIntero": "Candela moto B5HS - NGK - NGK",
+      "prezzo": "4.95",
+      "descrizione": "NGK è fornitore di candele di primo equipaggiamento per una amplissima gamma di motori a combustione interna. I suoi prodotti vengono impiegati sui quasi tutte le automobili e motociclette che circolano quotidianamente sulle strade; l'elevatissima qualità delle candele NGK viene apprezzata anche dai più importanti costruttori di piccoli motori per attrezzature da giardinaggio e motori per imbarcazioni Il marchio NGK è inoltre presente nel prestigioso mondo delle competizioni motoristiche di più alto livello. Le candele di accensione NGK sono tanto evolute quanto affidabili. Sono in grado di massimizzare le performance del motore e contribuiscono a ridurre l'inquinamento ambientale grazie all'ottimizzazione del processo di combustione.",
+      "imgUno": "assets/img/moto/1252845_900x900.jpeg",
+      "imgDue": "assets/img/moto/1252845_900x900.jpeg",
+      "id": 16,
+      "inCart": 0
+    },
+    {
+      "nome": "Candela",
+      "nomeIntero": "Candela moto CR8EKB - NGK - NGK",
+      "prezzo": "18.35",
+      "descrizione": "NGK è fornitore di candele di primo equipaggiamento per una amplissima gamma di motori a combustione interna. I suoi prodotti vengono impiegati sui quasi tutte le automobili e motociclette che circolano quotidianamente sulle strade; l'elevatissima qualità delle candele NGK viene apprezzata anche dai più importanti costruttori di piccoli motori per attrezzature da giardinaggio e motori per imbarcazioni Il marchio NGK è inoltre presente nel prestigioso mondo delle competizioni motoristiche di più alto livello. Le candele di accensione NGK sono tanto evolute quanto affidabili. Sono in grado di massimizzare le performance del motore e contribuiscono a ridurre l'inquinamento ambientale grazie all'ottimizzazione del processo di combustione.",
+      "imgUno": "assets/img/moto/1252808_cr8ekb_1_900x900.jpeg",
+      "imgDue": "assets/img/moto/1252808_cr8ekb_900x900.jpeg",
+      "id": 17,
+      "inCart": 0
+    },
+    {
+      "nome": "Guanti",
+      "nomeIntero": "Guanti in pelle e tessuto SMX-2 AIR Carbon V2 - ALPINESTARS",
+      "prezzo": "79.95",
+      "descrizione": "Guanto in pelle e tessuto mesh 3D per offrire un'ottima traspirabilità. Rinforzi su palmo e pollice per garantire maggiore aderenza. Inserto elastico ergonimico sul palmo. Nocche rinforzate in carbonio per offrire maggiore protezione dagli urti e all'abrasione. Pollice imbottito in schiuma EVA per una maggiore protezione. Rinforzi dita in TPR. Chiusura con Velcro . Dita precurvate per offrire maggiore comfort al pilota.",
+      "imgUno": "assets/img/moto/guanti_smx2_carbon_nero_fluo_900x900.jpeg",
+      "imgDue": "assets/img/moto/guanti_smx2_carbon_nero_fluo_1_900x900.jpeg",
+      "id": 18,
+      "inCart": 0
+    },
+    {
+      "nome": "Lubrificante catena",
+      "nomeIntero": "Lubrificante Catena Chainroad - MA-FRA - MA-FRA",
+      "prezzo": "7.95",
+      "descrizione": "Il grasso catena CHAINROAD, ideale per tutti quei motociclisti che compiono lunghe percorrenze e hanno necessità di avere una trasmissione finale lubrificata e protetta, è stato sviluppato dai ricercatori MA-FRA in stretta collaborazione con le più grandi Case costruttrici di motoveicoli e con i migliori Team di Superbike e del Motomondiale. CHAINROAD ha superato i più severi test di durata nelle competizioni Endurance e nei Continent Travel: il risultato finale è davvero eccellente, una lubrificazione sicura e una elevata protezione. Il suo colore rosso lo rende facilmente identificabile sulla catena, aiutando a capire quando è il momento di ripetere l'applicazione.",
+      "imgUno": "assets/img/moto/1133198_900x900.jpeg",
+      "imgDue": "assets/img/moto/1133198_2_900x900.jpeg",
+      "id": 19,
+      "inCart": 0
+    },
+    {
+      "nome": "Lubrificante catena",
+      "nomeIntero": "Lubrificante Catena Synthetic chain spray - XERAMIC - XERAMIC",
+      "prezzo": "19.95",
+      "descrizione": "PM Xeramic Synthetic Chain Spry è un modernissimo spry per catene con proprietà Long-Life a base di materiale ceramico. Questo materiale eccezionale, originariamente perfezionato per la ricerca spaziale, ha trovato adesso nella PM Xeramic Synthetic Chain Spray un rivoluzionario campo di applicazione. PM Xeramic Synthetic Chain Spray è a base di materie sintetiche, arricchite con materiale ceramico e dopes di primissima qualità che ne ottimalizzano le proprietà lubrificanti. PM Xeramic Chain Spray non si secca, mantiene la catena duttile e resiste alle temperature elevate.",
+      "imgUno": "assets/img/moto/1231065_20108_new_900x900.jpeg",
+      "imgDue": "assets/img/moto/1231065_20108_new_900x900.jpeg",
+      "id": 20,
+      "inCart": 0
+    },
+    {
+      "nome": "Lubrificante catena",
+      "nomeIntero": "Lubrificante Catena eSystem 3.1 - SCOTTOILER - SCOTTOILER",
+      "prezzo": "319.95",
+      "descrizione": "Sistema di oliatura a catena elettronico più avanzato al mondo. Progettato per il motociclista che desidera il controllo totale della sua moto e della sua salute, incluso ovviamente l'ultra precisa oliatura della catena. Collegandosi alla batteria della moto, il display a LED può essere installato sul manubrio consentendo di regolare facilmente le portate di olio. Mantiene tutte le impostazioni predefinite, anche quando è scollegato dalla batteria. Aumenta la durata della catena e del pignone. Facile e veloce da montare. Riduce notevolmente la necessità di manutenzione. Incluso nella confezione di vendita olio biodegradabile 'All Climate '(vedi nostro codice 1928419).",
+      "imgUno": "assets/img/moto/1928763_bio_900x900.jpeg",
+      "imgDue": "assets/img/moto/1928763_montato_2_900x900.jpeg",
+      "id": 21,
+      "inCart": 0
+    },
+    {
+      "nome": "Telo Coprimoto",
+      "nomeIntero": "Telo Coprimoto interno-esterno Bike Cover - OJ - OJ",
+      "prezzo": "29.95",
+      "descrizione": "Telo coprimoto e copriscooter impermeabile con doppie cuciture termonastrate. Interno antipolvere, asola per antifurto e cinghia di sicurezza antisventolio.",
+      "imgUno": "assets/img/moto/coprimoto-bike-cover_900x900.jpeg",
+      "imgDue": "assets/img/moto/coprimoto-bike-cover_900x900.jpeg",
+      "id": 22,
+      "inCart": 0
+    },
+    {
+      "nome": "Telo Coprimoto",
+      "nomeIntero": "Telo Coprimoto interno-esterno Drive In - RONIN",
+      "prezzo": "76.46",
+      "descrizione": "Coprimoto con cerniera. Protezione totale. Striscie riflettenti: aumentano la visibilità di notte. Profilo inferiore fluorescente ad alta visbilità. Custodia inclusa. Tappetino antiabrasione: dotato di tappeto inferiore con cerniera lungo tutta la circonferenza. Per tutte le stagioni. Per uso interno ed esterno. Protezione UV. Traspirante. In tessuto idrorepellente (att.ne: il veicolo si può bagnare se rimane esposto per un lungo periodo di tempo sotto la pioggia, nel bagnato o sulla neve). Doppia presa d'aria. Protezione completa da sole, pioggia, neve, polvere, ecc.",
+      "imgUno": "assets/img/moto/1636671-72_comp_900x900.jpeg",
+      "imgDue": "assets/img/moto/1636671-72_dett_3_900x900.jpeg",
+      "id": 23,
+      "inCart": 0
+    },
+    {
+      "nome": "Telo Coprimoto",
+      "nomeIntero": "Telo Coprimoto interno-esterno Cooling - OJ - OJ",
+      "prezzo": "37.95",
+      "descrizione": "Telo coprimoto estivo che ti permetterà di parcheggiare la moto o lo scooter sotto al sole senza dover poi più avere timore delle manopole o della sella ustionanti. Coprimoto a protezione di sella e manubrio dal sole. Abbassa la temperatura di notevoli gradi, grazie al suo interno argentato. Montaggio rapido e intuitivo: doppio strap di chiusura alle manopole (utilizzabili quindi sia su scooter che su maxi enduro), elastico a loop per aggancio frontale ed elastico di sicurezza sul retro. 4 cinghie elastiche con uncini per l'aggancio al mezzo. 2 prolunghe elastiche per uncini. Per manubri da 70cm a 114cm.",
+      "imgUno": "assets/img/moto/coprimoto_cooling_universale_900x900.jpeg",
+      "imgDue": "assets/img/moto/coprimoto_cooling_universale_1_900x900.jpeg",
+      "id": 24,
+      "inCart": 0
+    }
+  ],
+  "bici": [
+    {
+      "nome": "Guanti",
+      "nomeIntero": "Guanti bici mezze dita Bump Gel - B-RACE",
+      "prezzo": "11,35",
+      "descrizione": "Guanti bici mezze dita. Sistema di ventilazione, cuscinetti GEL di alta qualità per assorbire gli urti, inserti anti scivolo in silicone, chiusura regolabile a strappo. Linguette per estrazione agevolata.",
+      "imgUno": "assets/img/bici/1596806_esterno_900x900.jpeg",
+      "imgDue": "assets/img/bici/1596806_interno_900x900.jpeg",
+      "id": 25,
+      "inCart": 0
+    },
+    {
+      "nome": "Guanti",
+      "nomeIntero": "Guanti bici mezze dita Essential SF - SCOTT - SCOTT",
+      "prezzo": "23,95",
+      "descrizione": "La costruzione del dorso della mano è in rete, lycra e airprene per fornire una vestibilità e una traspirazione superiori, il pannello del pollice in microfibra ti permette di asciugare il naso e la fronte mentre vai in bici. La chiusura con linguetta in TPR sul polso e il sistema pull-off su due dita rendono questi guanti facili da indossare e togliere. Materiale: dorso: 72% poliestere, 12% nylon, 8% elastan, 8% poliuretano; palmo: 65% poliammide, 35% poliuretano.",
+      "imgUno": "assets/img/bici/guanto_essent_nero_900x900.jpeg",
+      "imgDue": "assets/img/bici/guanto_essent_nero_1_900x900.jpeg",
+      "id": 26,
+      "inCart": 0
+    },
+    {
+      "nome": "Guanti",
+      "nomeIntero": "Guanti bici invernali Bright 2.0 - OXFORD - OXFORD",
+      "prezzo": "15,95",
+      "descrizione": "Tomaia termica riflettente Hi Vis. Palmo resistente con dito touchscreen. Windproof.",
+      "imgUno": "assets/img/bici/guanti_bici_bright2-0_1_900x900.jpeg",
+      "imgDue": "assets/img/bici/guanti_bici_bright2-0_2_900x900.jpeg",
+      "id": 27,
+      "inCart": 0
+    },
+    {
+      "nome": "Copertone",
+      "nomeIntero": "Copertone E-bike - LAMPA - LAMPA",
+      "prezzo": "6,95",
+      "descrizione": "Pneumatico E-Bike. 22x1,75 Nero.",
+      "imgUno": "assets/img/bici/1597969_900x900.jpeg",
+      "imgDue": "assets/img/bici/1597969_900x900.jpeg",
+      "id": 28,
+      "inCart": 0
+    },
+    {
+      "nome": "Copertone",
+      "nomeIntero": "Copertone BMX bimbo - LAMPA - LAMPA",
+      "prezzo": "8,95",
+      "descrizione": "Pneumatico Bmx bimbo. 16 x 1,95. (49-305) Nero",
+      "imgUno": "assets/img/bici/1596816_900x900.jpeg",
+      "imgDue": "assets/img/bici/1596816_900x900.jpeg",
+      "id": 29,
+      "inCart": 0
+    },
+    {
+      "nome": "Copertone",
+      "nomeIntero": "Copertone Sport - LAMPA - LAMPA",
+      "prezzo": "12,75",
+      "descrizione": "Pneumatico Sport - 700 x 28 (28 x 1 5/8 x 1 1/8) - Nero/Para.",
+      "imgUno": "assets/img/bici/1211558_900x900.jpeg",
+      "imgDue": "assets/img/bici/1211558_900x900.jpeg",
+      "id": 20,
+      "inCart": 0
+    },
+    {
+      "nome": "Ginocchiera",
+      "nomeIntero": "Protezione ginocchio Dirt - ONEAL",
+      "prezzo": "49,95",
+      "descrizione": "Morbida ginocchiera comoda con protezione in schiuma IPX. La protezione IPX è morbida e flessibile durante la guida, ma si indurisce al momento dell'impatto. Struttura leggera e poco ingombrante. Realizzata in neoprene traspirante e in grado di assorbire il sudore. Materiale resistente alle abrasioni nelle zone critiche. Il cinturino in Velcro elastico e regolabile fornisce una vestibilità comoda e sicura. Sottile abbastanza da poter essere indossata sotto i jeans/pantaloni. Certificata CE EN 1621-1.",
+      "imgUno": "assets/img/bici/protezioni_ginocchia_dirt_nero_900x900.jpeg",
+      "imgDue": "assets/img/bici/protezioni_ginocchia_dirt_nero2_900x900.jpeg",
+      "id": 31,
+      "inCart": 0
+    },
+    {
+      "nome": "Maglia protettiva",
+      "nomeIntero": "Maglia protettiva STV - ONEAL",
+      "prezzo": "105,95",
+      "descrizione": "Maglia protettiva leggera a maniche corte con materiale elastico in Lycra. Imbottiture in rilievo su torace, schiena e fianchi. Gomitiera e protezione per spalle con tasca interna. Imbottiture IPX rimovibili. Facile da indossare e togliere grazie alla cerniera centrale. Parte posteriore a rete per la ventilazione. Collare compatibile e facilmente applicabile grazie agli occhielli aggiuntivi sulla parte anteriore, posteriore e sulle spalle. Certificato secondo EN1621-1 Livello 1.",
+      "imgUno": "assets/img/bici/pettorina_corta_stv_nero_900x900.jpeg",
+      "imgDue": "assets/img/bici/pettorina_corta_stv_nero_1_900x900.jpeg",
+      "id": 32,
+      "inCart": 0
+    },
+    {
+      "nome": "Ginocchiera",
+      "nomeIntero": "Protezione ginocchio E-Ride - ALPINESTARS - ALPINESTARS",
+      "prezzo": "79,95",
+      "descrizione": "Protezioni molto valide e robuste Ideali per e-bike, dispongono di uno scudo esterno termoformato semi-rigido che regala massima protezione, libertà di movimento e flessibilità. All'interno hanno un'imbottitura termoformata arrotondata che protegge il ginocchio grazie alla schiuma viscoelastica traforata. Molto comoda e adattabile grazie alle svariate regolazioni. Tessuto laminato nella zona centrale per offrire resistenza all'abrasione e robustezza. Struttura in mesh elasticizzata e traspirante. Chiusura in velcro e strisce siliconiche anti-scivolo sulla circonferenza. Design pre-sagomato ergonomico per ottimizzare la vestibilità.",
+      "imgUno": "assets/img/bici/protezione_ginocchio_e-ride_ner_azz_900x900.jpeg",
+      "imgDue": "assets/img/bici/protezione_ginocchio_e-ride_ner_azz_2_900x900.jpeg",
+      "id": 33,
+      "inCart": 0
+    },
+    {
+      "nome": "Bicicletta",
+      "nomeIntero": "Bicicletta elettrica Mountain Bike 29 - COPPI - COPPI",
+      "prezzo": "1.699,00",
+      "descrizione": "Mountain Bike elettrica. Telaio in alluminio. Forcella: alluminio ammortizzata Suntour XCM. Cambio: Shimano Alivio. Comandi: Shimano Alivio 9 velocità. Chainwheel: alluminio Bafang 38 denti. Freewheel: Shimano HG200 9 velocità 11/32. Freni: anteriore e posteriore a disco Tektro idraulici. Motore: centrale 250W Bafang. Batteria: Litio 36V x 14ah integrata. Celle LG. Caricabatteria: 220V. Tempo di ricarica 4h. Autonomia 70km. Cicli di ricarica 500/600. Misura 46-51cm.",
+      "imgUno": "assets/img/bici/1867905_900x900.jpeg",
+      "imgDue": "assets/img/bici/1867905_900x900.jpeg",
+      "id": 34,
+      "inCart": 0
+    },
+    {
+      "nome": "Bicicletta",
+      "nomeIntero": "Bicicletta elettrica Pieghevole 20 - COPPI - COPPI",
+      "prezzo": "669,00",
+      "descrizione": "Bici elettrica pieghevole. Telaio in acciaio. Forcella in acciaio. Cambio a 6 velocità. Comandi 6 velocità. Freni: V-Brake anteriore, disco posteriore. Fanali: anteriore e posteriore a batterie. Motore: posteriore 250W - Trotter. Batteria: Li-ion 36V x 7,8 Ah, Celle Samsung. Caricabatterie: 220V. Tempo di carica: 5h. Autonomia: 40km. Cicli di ricarica: 500/600.",
+      "imgUno": "assets/img/bici/1867907_900x900.jpeg",
+      "imgDue": "assets/img/bici/1867907_900x900.jpeg",
+      "id": 35,
+      "inCart": 0
+    },
+    {
+      "nome": "Bicicletta",
+      "nomeIntero": "Bicicletta pieghevole Simple - B4C - B4C",
+      "prezzo": "271,20",
+      "descrizione": "Bici pieghevole con telaio in alluminio. Forcella in acciaio. Manubrio in alluminio. Copricatena: plastica. Supporto inferiore: Neco B 910. Mozzo posteriore/anteriore: Shunfeng. Cambio: Shimano SL-RS36, 7 velocità. Deragliatore posteriore/anteriore: TY200. Ruota libera: ATA 7 velocità. Catena: KMC 27. Rim: Dacron Double Wall. Freno anteriore/posteriore: Promax V Brake TX-117. Portapacchi posteriore: acciaio. Ruote 20.",
+      "imgUno": "assets/img/bici/1926800_bici-pieghevole_900x900.jpeg",
+      "imgDue": "assets/img/bici/1926800_bici-piegata_900x900.jpeg",
+      "id": 36,
+      "inCart": 0
+    }
+  ],
+  "elenco": [
+    {
+      "nomeUtente": "anish",
+      "password": "frigerio",
+      "id": 1
+    },
+    {
+      "nomeUtente": "tibor",
+      "password": "frigerio",
+      "id": 2
+    },
+    {
+      "nomeUtente": "tommaso",
+      "password": "frigerio",
+      "id": 3
+    },
+    {
+      "nomeUtente": "marina",
+      "password": "muntenita",
+      "id": 4
+    },
+    {
+      "nomeUtente": "marinamuntenita@gmail.com",
+      "password": "muntenita",
+      "id": 5
+    },
+    {
+      "nomeUtente": "benissimo",
+      "password": "benissimo",
+      "id": 6
+    }
+  ]
+}
